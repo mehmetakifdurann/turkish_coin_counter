@@ -1,3 +1,5 @@
+Turkish Lira Coin Counter
+
 A base MATLAB function that detects Turkish Lira coins (1 kr – 5 TL) in an image, classifies them by diameter matching, and calculates the total value in TL.
 Features
 
